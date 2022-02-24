@@ -18,7 +18,7 @@ export function ShoppingList() {
       // Limitar consultas
       /* .limit(3) */
       // Ordenar consultas
-      /* .orderBy('description', 'asc') */
+      .orderBy('description', 'asc')
       // Intervalo de consultas
       /* 
       .startAt(2)
